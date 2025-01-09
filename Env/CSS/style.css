@@ -1,0 +1,67 @@
+.topBanner{
+    background-color: #62df8e;
+    color: white;
+    height: 100px;
+    display: flex;
+}
+
+.loginButton {
+    display:flex;
+    align-items: center;
+    margin-left: 1280px;
+    margin-top: 20px;
+    width:120px;
+    height:40px;
+    background-color: #042683;
+    border-radius: 10px;
+}
+
+
+.loginButton h2{
+    margin-left: 20px;
+}
+
+
+
+
+
+.loginButton a{
+    color: white;
+    text-decoration: none;
+}
+
+.title{
+    height: 100px;
+}
+
+.BookingMenu{
+    border: #ebe174, solid, 5px;
+    border-radius: 5px;
+    background-color: #ebe174;
+}
+.BookingMenu input{
+    width: 100%;
+    height: 50px;
+    border-radius: 5px;
+}
+
+.BookingMenu, p{
+    color: white;
+}
+
+hr{
+    color: white;
+    width: 700px;
+    
+
+
+    
+}
+
+
+
+footer{
+    color: white;
+    background-color: #3c3c3c;
+    text-align: center;
+}

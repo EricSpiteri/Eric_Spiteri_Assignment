@@ -1,0 +1,45 @@
+.topBanner{
+    background-color: #62df8e;
+    color: white;
+    height: 100px;
+    display: flex;
+}
+
+.loginButton {
+    display:flex;
+    align-items: center;
+    margin-left: 1280px;
+    margin-top: 20px;
+    width:120px;
+    height:40px;
+    background-color: #042683;
+    border-radius: 10px;
+}
+
+
+.loginButton h2{
+    margin-left: 20px;
+}
+
+.PropertyListings{
+    display:flex;
+    flex-wrap: wrap;
+    gap: 160px;
+    justify-content: center;
+}
+
+
+hr{
+    color: white;
+    width: 700px;
+    
+
+
+    
+}
+
+footer{
+    color: white;
+    background-color: #3c3c3c;
+    text-align: center;
+}
