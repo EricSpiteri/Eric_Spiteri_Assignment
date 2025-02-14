@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Availabilities</title>
-    <link rel="stylesheet" href="/CSS/Availabilities.css">
-    <link rel="stylesheet" href="/Bootstrap/css/Bootstrap.css">
+    <link rel="stylesheet" href="../CSS/Availabilities.css">
+    <link rel="stylesheet" href="../Bootstrap/css/Bootstrap.css">
 </head>
 <body>
 
@@ -26,7 +26,7 @@
     <!-- Navigation Bar -->
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
   <div class="container-fluid">
-    <a class="navbar-brand" href="/index.php">Home</a>
+    <a class="navbar-brand" href="../index.php">Home</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -45,9 +45,9 @@
           </a>
           <ul class="dropdown-menu">
             <li><a class="dropdown-item" href="#"></a></li>
-            <li><a class="dropdown-item" href="/HTML/Contact.php">Contact Us</a></li>
+            <li><a class="dropdown-item" href="./Contact.php">Contact Us</a></li>
             <li><hr class="dropdown-divider"></li>
-            <li><a class="dropdown-item" href="#">Frequently Asked Questions</a></li>
+            <li><a class="dropdown-item" href="./FAQ.php">Frequently Asked Questions</a></li>
           </ul>
         </li>
       </ul>
@@ -67,7 +67,7 @@
     <!--Property Listings-->
     <div class="PropertyListings">
     <div class="card" style="width: 18rem;">
-  <img class="card-img-top" src="/Images/PorpertyListing1.jpg" alt="Hotel Paraguay Listing">
+  <img class="card-img-top" src="../Images/PorpertyListing1.jpg" alt="Hotel Paraguay Listing">
   <div class="card-body">
     <h5 class="card-title">Hotel Paraguay</h5>
     <p class="card-text">A charming boutique hotel overlooking the river, with spacious rooms and a tranquil ambiance.</p>
@@ -84,7 +84,7 @@
 </div>
 
 <div class="card" style="width: 18rem;">
-  <img class="card-img-top" src="/Images/PropertyListing2.jpg" alt="Hotel Paraguay Listing">
+  <img class="card-img-top" src="../Images/PropertyListing2.jpg" alt="Hotel Paraguay Listing">
   <div class="card-body">
     <h5 class="card-title">Boo Hotel</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -101,7 +101,7 @@
 </div>
 
 <div class="card" style="width: 18rem;">
-  <img class="card-img-top" src="/Images/PropertyListing3.jpg" alt="Hotel Paraguay Listing">
+  <img class="card-img-top" src="../Images/PropertyListing3.jpg" alt="Hotel Paraguay Listing">
   <div class="card-body">
     <h5 class="card-title">Prague City Hotel</h5>
     <p class="card-text">Located just steps from major attractions, this stylish hotel blends comfort with convenience for a perfect stay.</p>
@@ -119,7 +119,7 @@
 </div>
 
 <div class="card" style="width: 18rem;">
-  <img class="card-img-top" src="/Images/PropertyListing4.jpg" alt="Hotel Paraguay Listing">
+  <img class="card-img-top" src="../Images/PropertyListing4.jpg" alt="Hotel Paraguay Listing">
   <div class="card-body">
     <h5 class="card-title">Hotel Paraguay</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -136,7 +136,7 @@
 </div>
 
 <div class="card" style="width: 18rem;">
-  <img class="card-img-top" src="/Images/PropertyListing5.jpg" alt="Hotel Paraguay Listing">
+  <img class="card-img-top" src="../Images/PropertyListing5.jpg" alt="Hotel Paraguay Listing">
   <div class="card-body">
     <h5 class="card-title">Hotel Paraguay</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -153,7 +153,7 @@
 </div>
 
 <div class="card" style="width: 18rem;">
-  <img class="card-img-top" src="/Images/PropertyListing6.jpg" alt="Hotel Paraguay Listing">
+  <img class="card-img-top" src="../Images/PropertyListing6.jpg" alt="Hotel Paraguay Listing">
   <div class="card-body">
     <h5 class="card-title">Hotel Paraguay</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -170,7 +170,7 @@
 </div>
 
 <div class="card" style="width: 18rem;">
-  <img class="card-img-top" src="/Images/PropertyListing7.jpg" alt="Hotel Paraguay Listing">
+  <img class="card-img-top" src="../Images/PropertyListing7.jpg" alt="Hotel Paraguay Listing">
   <div class="card-body">
     <h5 class="card-title">Hotel Paraguay</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -187,7 +187,7 @@
 </div>
 
 <div class="card" style="width: 18rem;">
-  <img class="card-img-top" src="/Images/PropertyListing8.webp" alt="Hotel Paraguay Listing">
+  <img class="card-img-top" src="../Images/PropertyListing8.webp" alt="Hotel Paraguay Listing">
   <div class="card-body">
     <h5 class="card-title">Hotel Paraguay</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -204,7 +204,7 @@
 </div>
 
 <div class="card" style="width: 18rem;">
-  <img class="card-img-top" src="/Images/PropertyListing9.webp" alt="Hotel Paraguay Listing">
+  <img class="card-img-top" src="../Images/PropertyListing9.webp" alt="Hotel Paraguay Listing">
   <div class="card-body">
     <h5 class="card-title">Hotel Paraguay</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -221,7 +221,7 @@
 </div>
 
 <div class="card" style="width: 18rem;">
-  <img class="card-img-top" src="/Images/PropertyListing10.webp" alt="Hotel Paraguay Listing">
+  <img class="card-img-top" src="../Images/PropertyListing10.webp" alt="Hotel Paraguay Listing">
   <div class="card-body">
     <h5 class="card-title">Hotel Paraguay</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -238,7 +238,7 @@
 </div>
 
 <div class="card" style="width: 18rem;">
-  <img class="card-img-top" src="/Images/PropertyListing11.jpg" alt="Hotel Paraguay Listing">
+  <img class="card-img-top" src="../Images/PropertyListing11.jpg" alt="Hotel Paraguay Listing">
   <div class="card-body">
     <h5 class="card-title">Hotel Paraguay</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -255,7 +255,7 @@
 </div>
 
 <div class="card" style="width: 18rem;">
-  <img class="card-img-top" src="/Images/PropertyListing12.webp" alt="Hotel Paraguay Listing">
+  <img class="card-img-top" src="../Images/PropertyListing12.webp" alt="Hotel Paraguay Listing">
   <div class="card-body">
     <h5 class="card-title">Hotel Paraguay</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -308,6 +308,6 @@ Copyright © 1996–2024 Booking™. All rights reserved.</p2>
 
 
 
-<script src= "/Bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src= "../Bootstrap/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>

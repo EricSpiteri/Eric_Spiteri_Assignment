@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>FAQ Page</title>
-    <link rel="stylesheet" href="/CSS/FAQ.css">
-    <link rel="stylesheet" href="/Bootstrap/css/Bootstrap.css">
+    <link rel="stylesheet" href="../CSS/FAQ.css">
+    <link rel="stylesheet" href="../Bootstrap/css/Bootstrap.css">
 </head>
 <body>
     <header>
@@ -14,7 +14,7 @@
         <!-- Navigation Bar -->
  <nav class="navbar navbar-expand-lg bg-body-tertiary">
   <div class="container-fluid">
-    <a class="navbar-brand" href="/index.php">Home</a>
+    <a class="navbar-brand" href="../index.php">Home</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>

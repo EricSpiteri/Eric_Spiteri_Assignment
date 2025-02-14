@@ -22,7 +22,7 @@
     <!-- Navigation Bar -->
  <nav class="navbar navbar-expand-lg bg-body-tertiary">
   <div class="container-fluid">
-    <a class="navbar-brand" href="/index.php">Home</a>
+    <a class="navbar-brand" href="../index.php">Home</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -41,9 +41,9 @@
           </a>
           <ul class="dropdown-menu">
             <li><a class="dropdown-item" href="#"></a></li>
-            <li><a class="dropdown-item" href="/HTML/Contact.php">Contact Us</a></li>
+            <li><a class="dropdown-item" href="./HTML/Contact.php">Contact Us</a></li>
             <li><hr class="dropdown-divider"></li>
-            <li><a class="dropdown-item" href="FAQ.php">Frequently Asked Questions</a></li>
+            <li><a class="dropdown-item" href="./FAQ.php">Frequently Asked Questions</a></li>
           </ul>
         </li>
       </ul>

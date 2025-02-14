@@ -4,14 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact Us</title>
-    <link rel="stylesheet" href="/CSS/Contact.css">
-    <link rel="stylesheet" href="/Bootstrap/css/Bootstrap.css">
+    <link rel="stylesheet" href="../CSS/Contact.css">
+    <link rel="stylesheet" href="../Bootstrap/css/Bootstrap.css">
     <meta charset="UTF-8">
 </head>
 <body>
 
 <div class="contactBackground">
-  <img src="/Images/ContactBackground.jpg" alt="Contact Page Background">
+  <img src="../Images/ContactBackground.jpg" alt="Contact Page Background">
 </div>
 
 
@@ -50,9 +50,9 @@
           </a>
           <ul class="dropdown-menu">
             <li><a class="dropdown-item" href="#"></a></li>
-            <li><a class="dropdown-item" href="/HTML/Contact.php">Contact Us</a></li>
+            <li><a class="dropdown-item" href="./Contact.php">Contact Us</a></li>
             <li><hr class="dropdown-divider"></li>
-            <li><a class="dropdown-item" href="FAQ.php">Frequently Asked Questions</a></li>
+            <li><a class="dropdown-item" href="./FAQ.php">Frequently Asked Questions</a></li>
           </ul>
         </li>
       </ul>
@@ -80,10 +80,12 @@
             <label for="name" class="form-label">Your Name</label>
             <input type="text" class="form-control" id="name" name="name" required>
         </div>
+        
         <div class="mb-3">
             <label for="email" class="form-label">Your Email</label>
             <input type="email" class="form-control" id="email" name="email" required>
         </div>
+
 
         <div style="margin-right: 700px;" class="mb-3">
           <label for="phoneNumber" class="form-label">Your Mobile Number</label>
@@ -133,7 +135,7 @@ Copyright © 1996–2024 Booking™. All rights reserved.</p2>
 
 
     
-    <script src= "/Bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src= "../Bootstrap/js/bootstrap.bundle.min.js"></script>
 
     </div>
 </body>
