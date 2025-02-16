@@ -6,13 +6,12 @@
 }
 
 .loginButton {
-    display:flex;
-    align-items: center;
-    margin-left: 1280px;
+    display: flex;
+    margin-left: 66%;
     margin-top: 20px;
     width:120px;
-    height:40px;
-    background-color: #042683;
+    height:60px;
+    background-color: #004781;
     border-radius: 10px;
 }
 
