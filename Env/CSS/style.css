@@ -5,14 +5,18 @@
     display: flex;
 }
 
-.loginButton {
+.loginButton{
     display: flex;
-    margin-left: 66%;
-    margin-top: 20px;
-    width:120px;
-    height:60px;
-    background-color: #004781;
-    border-radius: 10px;
+    margin-left: 60%;
+    margin-top: 15px;
+}
+
+.loginButton img {
+
+    width:100%;
+    height:60%;
+    background-color: #ffffff;
+    border-radius: 50px;
 }
 
 

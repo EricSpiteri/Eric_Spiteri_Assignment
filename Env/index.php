@@ -22,7 +22,7 @@
 
         <div class="loginButton">
         <a href="./HTML/login.php">
-        <h2>Login</h2>
+        <img src="./Images/Icons/ProfileIcon.png" alt="LoginButton">
         </a>
         </div>
     </div>
