@@ -17,11 +17,12 @@
         </div>
 
         <div class="loginButton">
-        <a href="HTML/login.php">
-        <h2>Login</h2>
+        <a href="login.php">
+        <img src="../Images/Icons/ProfileIcon.png" alt="LoginButton">
         </a>
         </div>
     </div>
+
 
     <!-- Navigation Bar -->
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
@@ -59,6 +60,7 @@
   </div>
 </nav>
 </div>
+</header>
 
     <br>
     <br>
