@@ -25,6 +25,11 @@
     flex-wrap: wrap;
     gap: 160px;
     justify-content: center;
+    
+}
+/* Add shadow for aesthetic effect 1.)horizontal 2.)vertical 3.) blur amount 4.)spread radiu*/
+.card{
+    box-shadow: 10px 10px 20px 12px #e3e3e3;
 }
 
 

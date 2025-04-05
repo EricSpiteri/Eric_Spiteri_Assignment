@@ -34,7 +34,7 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="HTML/Availabilities.php">Browse Availabilities</a>
+          <a class="nav-link active" aria-current="page" href="Availabilities.php">Browse Availabilities</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Your Bookings</a>
@@ -67,7 +67,7 @@
     <br>
 
 
-    <!--Property Listings-->
+    <!--Property Listing cards-->
     <div class="PropertyListings">
     <div class="card" style="width: 18rem;">
   <img class="card-img-top" src="../Images/PorpertyListing1.jpg" alt="Hotel Paraguay Listing">
@@ -90,7 +90,7 @@
   <img class="card-img-top" src="../Images/PropertyListing2.jpg" alt="Hotel Paraguay Listing">
   <div class="card-body">
     <h5 class="card-title">Boo Hotel</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <p class="card-text">Boo Hotel offers cozy rooms, friendly service, and a prime location for all travelers.</p>
   </div>
   <ul class="list-group list-group-flush">
     <li class="list-group-item"></li>
@@ -124,17 +124,17 @@
 <div class="card" style="width: 18rem;">
   <img class="card-img-top" src="../Images/PropertyListing4.jpg" alt="Hotel Paraguay Listing">
   <div class="card-body">
-    <h5 class="card-title">Hotel Paraguay</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <h5 class="card-title">Vienna City Apartments</h5>
+    <p class="card-text">Vienna City Apartment – your cozy home in the heart of Vienna.</p>
   </div>
   <ul class="list-group list-group-flush">
     <li class="list-group-item"></li>
-    <li class="list-group-item">Dapibus ac facilisis in</li>
-    <li class="list-group-item">Vestibulum at eros</li>
+    <li class="list-group-item">Twin Beds</li>
+    <li class="list-group-item">Free Cancellation</li>
   </ul>
   <div class="card-body">
-    <a href="#" class="card-link">Card link</a>
-    <a href="#" class="card-link">Another link</a>
+  <li style="font-weight:bold;" class="list-group-item">$103 per night</li>
+    <a href="#" class="card-link">See Availability</a>
   </div>
 </div>
 
@@ -142,67 +142,68 @@
   <img class="card-img-top" src="../Images/PropertyListing5.jpg" alt="Hotel Paraguay Listing">
   <div class="card-body">
     <h5 class="card-title">Hotel Paraguay</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <p class="card-text">A charming boutique hotel overlooking the river, with spacious rooms and a tranquil ambiance.</p>
   </div>
   <ul class="list-group list-group-flush">
     <li class="list-group-item"></li>
-    <li class="list-group-item">Dapibus ac facilisis in</li>
-    <li class="list-group-item">Vestibulum at eros</li>
+    <li class="list-group-item">Double Bedroom</li>
+    <li class="list-group-item">Free Cancellation</li>
   </ul>
   <div class="card-body">
-    <a href="#" class="card-link">Card link</a>
-    <a href="#" class="card-link">Another link</a>
+  <li style="font-weight:bold;" class="list-group-item">$53 per night</li>
+    <a href="#" class="card-link">See Availability</a>
   </div>
 </div>
 
 <div class="card" style="width: 18rem;">
   <img class="card-img-top" src="../Images/PropertyListing6.jpg" alt="Hotel Paraguay Listing">
   <div class="card-body">
-    <h5 class="card-title">Hotel Paraguay</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <h5 class="card-title">Boo Hotel</h5>
+    <p class="card-text">Boo Hotel offers cozy rooms, friendly service, and a prime location for all travelers.</p>
   </div>
   <ul class="list-group list-group-flush">
     <li class="list-group-item"></li>
-    <li class="list-group-item">Dapibus ac facilisis in</li>
-    <li class="list-group-item">Vestibulum at eros</li>
+    <li class="list-group-item">Single Bedroom</li>
+    <li class="list-group-item">No Free Cancellation</li>
   </ul>
   <div class="card-body">
-    <a href="#" class="card-link">Card link</a>
-    <a href="#" class="card-link">Another link</a>
+  <li style="font-weight: bold;" class="list-group-item">$120 per night</li>
+    <a href="#" class="card-link">See Availability</a>
   </div>
 </div>
 
 <div class="card" style="width: 18rem;">
   <img class="card-img-top" src="../Images/PropertyListing7.jpg" alt="Hotel Paraguay Listing">
   <div class="card-body">
-    <h5 class="card-title">Hotel Paraguay</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <h5 class="card-title">Prague City Hotel</h5>
+    <p class="card-text">Located just steps from major attractions, this stylish hotel blends comfort with convenience for a perfect stay.</p>
   </div>
   <ul class="list-group list-group-flush">
     <li class="list-group-item"></li>
-    <li class="list-group-item">Dapibus ac facilisis in</li>
-    <li class="list-group-item">Vestibulum at eros</li>
+    <a href="#" class="card-link"></a>
+    <li class="list-group-item">Double Bedroom</li>
+    <li class="list-group-item">Free Cancellation</li>
   </ul>
   <div class="card-body">
-    <a href="#" class="card-link">Card link</a>
-    <a href="#" class="card-link">Another link</a>
+  <li style="font-weight:bold;" class="list-group-item">$67 per night</li>
+    <a href="#" class="card-link">See Availability</a>
   </div>
 </div>
 
 <div class="card" style="width: 18rem;">
   <img class="card-img-top" src="../Images/PropertyListing8.webp" alt="Hotel Paraguay Listing">
   <div class="card-body">
-    <h5 class="card-title">Hotel Paraguay</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <h5 class="card-title">Vienna City Apartments</h5>
+    <p class="card-text">Vienna City Apartment – your cozy home in the heart of Vienna.</p>
   </div>
   <ul class="list-group list-group-flush">
     <li class="list-group-item"></li>
-    <li class="list-group-item">Dapibus ac facilisis in</li>
-    <li class="list-group-item">Vestibulum at eros</li>
+    <li class="list-group-item">Twin Beds</li>
+    <li class="list-group-item">Free Cancellation</li>
   </ul>
   <div class="card-body">
-    <a href="#" class="card-link">Card link</a>
-    <a href="#" class="card-link">Another link</a>
+  <li style="font-weight:bold;" class="list-group-item">$103 per night</li>
+    <a href="#" class="card-link">See Availability</a>
   </div>
 </div>
 
@@ -210,68 +211,72 @@
   <img class="card-img-top" src="../Images/PropertyListing9.webp" alt="Hotel Paraguay Listing">
   <div class="card-body">
     <h5 class="card-title">Hotel Paraguay</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <p class="card-text">A charming boutique hotel overlooking the river, with spacious rooms and a tranquil ambiance.</p>
   </div>
   <ul class="list-group list-group-flush">
     <li class="list-group-item"></li>
-    <li class="list-group-item">Dapibus ac facilisis in</li>
-    <li class="list-group-item">Vestibulum at eros</li>
+    <li class="list-group-item">Double Bedroom</li>
+    <li class="list-group-item">Free Cancellation</li>
   </ul>
   <div class="card-body">
-    <a href="#" class="card-link">Card link</a>
-    <a href="#" class="card-link">Another link</a>
+  <li style="font-weight:bold;" class="list-group-item">$53 per night</li>
+    <a href="#" class="card-link">See Availability</a>
   </div>
 </div>
 
 <div class="card" style="width: 18rem;">
   <img class="card-img-top" src="../Images/PropertyListing10.webp" alt="Hotel Paraguay Listing">
   <div class="card-body">
-    <h5 class="card-title">Hotel Paraguay</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <h5 class="card-title">Boo Hotel</h5>
+    <p class="card-text">Boo Hotel offers cozy rooms, friendly service, and a prime location for all travelers.</p>
   </div>
   <ul class="list-group list-group-flush">
     <li class="list-group-item"></li>
-    <li class="list-group-item">Dapibus ac facilisis in</li>
-    <li class="list-group-item">Vestibulum at eros</li>
+    <li class="list-group-item">Single Bedroom</li>
+    <li class="list-group-item">No Free Cancellation</li>
   </ul>
   <div class="card-body">
-    <a href="#" class="card-link">Card link</a>
-    <a href="#" class="card-link">Another link</a>
+  <li style="font-weight: bold;" class="list-group-item">$120 per night</li>
+    <a href="#" class="card-link">See Availability</a>
   </div>
 </div>
 
 <div class="card" style="width: 18rem;">
   <img class="card-img-top" src="../Images/PropertyListing11.jpg" alt="Hotel Paraguay Listing">
   <div class="card-body">
-    <h5 class="card-title">Hotel Paraguay</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <h5 class="card-title">Prague City Hotel</h5>
+    <p class="card-text">Located just steps from major attractions, this stylish hotel blends comfort with convenience for a perfect stay.</p>
   </div>
   <ul class="list-group list-group-flush">
     <li class="list-group-item"></li>
-    <li class="list-group-item">Dapibus ac facilisis in</li>
-    <li class="list-group-item">Vestibulum at eros</li>
+    <a href="#" class="card-link"></a>
+    <li class="list-group-item">Double Bedroom</li>
+    <li class="list-group-item">Free Cancellation</li>
   </ul>
   <div class="card-body">
-    <a href="#" class="card-link">Card link</a>
-    <a href="#" class="card-link">Another link</a>
+  <li style="font-weight:bold;" class="list-group-item">$67 per night</li>
+    <a href="#" class="card-link">See Availability</a>
   </div>
 </div>
 
 <div class="card" style="width: 18rem;">
   <img class="card-img-top" src="../Images/PropertyListing12.webp" alt="Hotel Paraguay Listing">
   <div class="card-body">
-    <h5 class="card-title">Hotel Paraguay</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <h5 class="card-title">Vienna City Apartments</h5>
+    <p class="card-text">Vienna City Apartment – your cozy home in the heart of Vienna.</p>
   </div>
   <ul class="list-group list-group-flush">
     <li class="list-group-item"></li>
-    <li class="list-group-item">Dapibus ac facilisis in</li>
-    <li class="list-group-item">Vestibulum at eros</li>
+    <li class="list-group-item">Twin Beds</li>
+    <li class="list-group-item">Free Cancellation</li>
   </ul>
   <div class="card-body">
-    <a href="#" class="card-link">Card link</a>
-    <a href="#" class="card-link">Another link</a>
+  <li style="font-weight:bold;" class="list-group-item">$103 per night</li>
+    <a href="#" class="card-link">See Availability</a>
   </div>
+</div>
+
+
 </div>
 
 

@@ -51,7 +51,7 @@
 
     <br>
     <br>
-
+<!--Questions and answers (p is dropdown)-->
     <section class="faq-container">
         <div class="faq-item">
             <h2 class="faq-question">What is this booking website about?</h2>
