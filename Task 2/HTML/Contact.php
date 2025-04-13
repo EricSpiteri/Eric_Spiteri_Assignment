@@ -24,6 +24,12 @@
         <div class="title">
         <h1 style="margin-left: 50px; padding-top: 10px;">Contact Booking</h1>
         </div>
+        
+        <div class="loginButton">
+        <a href="login.php">
+        <img src="../Images/Icons/ProfileIcon.png" alt="LoginButton">
+        </a>
+        </div>
 </div>
 
 

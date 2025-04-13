@@ -151,26 +151,6 @@
   <br>
   <br>
   
-  <!--BookingMenu-->
-  <div class="container">
-    <div class="BookingMenu">
-      <div class="row">
-        <div class="col-5">
-        <input type="text" placeholder="Where do you want to go?">
-        </div>
-
-
-      <div class="col-3">
-      <input type="text" placeholder="Where do you want to go?">
-      </div>
-
-      <div class="col-2">
-      <input type="text" placeholder="Where do you want to go?">
-      </div>
-
-      <div class="col-1">
-      <input type="text" placeholder="Search">
-      </div>
 
 
     </div>
