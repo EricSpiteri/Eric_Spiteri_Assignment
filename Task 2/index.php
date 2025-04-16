@@ -20,7 +20,7 @@
         <h1 style="margin-left: 50px; padding-top: 10px;">Welcome to Booking</h1>
         </div>
 
-        <div class="loginButton">
+        <div class="loginButton" tabindex="1"> <!--Tab index allows for keyboard navigation-->
         <a href="./HTML/login.php">
         <img src="./Images/Icons/ProfileIcon.png" alt="LoginButton">
         </a>
@@ -30,28 +30,28 @@
     <!-- Navigation Bar -->
         <nav class="navbar navbar-expand-lg bg-body-tertiary">
   <div class="container-fluid">
-    <a class="navbar-brand" href="../index.php">Home</a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <a class="navbar-brand" href="../index.php" tabindex="2">Home</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" tabindex="3">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="./HTML/Availabilities.php">Browse Availabilities</a>
+          <a class="nav-link active" aria-current="page" href="./HTML/Availabilities.php" tabindex="4">Browse Availabilities</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Your Bookings</a>
+          <a class="nav-link" href="#" tabindex="5">Your Bookings</a>
         </li>
 
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" tabindex="6">
             More
           </a>
           <ul class="dropdown-menu">
             <li><a class="dropdown-item" href="#"></a></li>
-            <li><a class="dropdown-item" href="./HTML/Contact.php">Contact Us</a></li>
+            <li><a class="dropdown-item" href="./HTML/Contact.php" tabindex="6">Contact Us</a></li>
             <li><hr class="dropdown-divider"></li>
-            <li><a class="dropdown-item" href="./HTML/FAQ.php">Frequently Asked Questions</a></li>
+            <li><a class="dropdown-item" href="./HTML/FAQ.php" tabindex="7">Frequently Asked Questions</a></li>
           </ul>
         </li>
       </ul>
@@ -89,11 +89,11 @@
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
+    <span class="visually-hidden" tabindex="8">Previous</span>
   </button>
   <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Next</span>
+    <span class="visually-hidden" tabindex="9">Next</span>
   </button>
   </div>
 
