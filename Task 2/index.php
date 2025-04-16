@@ -14,18 +14,23 @@
   
     
      <!--Top Banner-->
-    <header>
-<div class="topBanner">
-        <div class="title">
+     <header>
+      <div class="topBanner">
+        <div class ="row">
+
+      <div class="col-10">
         <h1 style="margin-left: 50px; padding-top: 10px;">Welcome to Booking</h1>
         </div>
-
-        <div class="loginButton" tabindex="1"> <!--Tab index allows for keyboard navigation-->
-        <a href="./HTML/login.php">
-        <img src="./Images/Icons/ProfileIcon.png" alt="LoginButton">
+        <div class="col-2">
+        <div class="loginButton">
+        <a href="login.php">
+        <img src="./Images/Icons/ProfileIcon.png" alt="LoginButton" tabindex=1>
         </a>
         </div>
-    </div>
+        </div>
+        </div>
+        </div>
+        </header>
     
     <!-- Navigation Bar -->
         <nav class="navbar navbar-expand-lg bg-body-tertiary">
@@ -62,7 +67,6 @@
     </div>
   </div>
 </nav>
-</div>
     </header>
 
 <main>
@@ -151,10 +155,6 @@
   <br>
   <br>
   
-
-
-    </div>
-  </div>
   </main>
 
   <br>

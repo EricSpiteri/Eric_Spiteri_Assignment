@@ -9,19 +9,24 @@
 </head>
 <body>
 
- <!--Top Banner-->
- <header>
-<div class="topBanner">
-        <div class="title">
+<!--Top Banner-->
+<header>
+      <div class="TopBanner">
+        <div class ="row">
+
+      <div class="col-10">
         <h1 style="margin-left: 50px; padding-top: 10px;">Current Availabilities</h1>
         </div>
-
+        <div class="col-2">
         <div class="loginButton">
         <a href="login.php">
-        <img src="../Images/Icons/ProfileIcon.png" alt="Login Button" tabindex="1">
+        <img src="../Images/Icons/ProfileIcon.png" alt="LoginButton" tabindex=1>
         </a>
         </div>
-    </div>
+        </div>
+        </div>
+        </div>
+
 
 
     <!-- Navigation Bar -->
@@ -59,7 +64,6 @@
     </div>
   </div>
 </nav>
-</div>
 
 </header>
 
@@ -279,8 +283,6 @@
 
 </div>
 
-
-</div>
 
 <br>
 <br>

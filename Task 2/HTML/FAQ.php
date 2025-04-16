@@ -9,13 +9,23 @@
 </head>
 <body>
     <header>
-        <h1>Frequently Asked Questions (FAQ)</h1>
+      <div class="TopBanner">
+        <div class ="row">
 
+      <div class="col-10">
+        <h1 style="margin-left: 50px; padding-top: 10px;">Frequently Asked</h1>
+        </div>
+        <div class="col-2">
         <div class="loginButton">
         <a href="login.php">
         <img src="../Images/Icons/ProfileIcon.png" alt="LoginButton" tabindex=1>
         </a>
         </div>
+        </div>
+        </div>
+        </div>
+        
+        
 
         <!-- Navigation Bar -->
  <nav class="navbar navbar-expand-lg bg-body-tertiary">
@@ -130,6 +140,7 @@ Copyright © 1996–2024 Booking™. All rights reserved.</p2>
 </footer>
 
 <script src="../Javascript/FAQ.JS"></script>
+<script src= "../Bootstrap/js/bootstrap.bundle.min.js"></script>
 
 </body>
 </html>
