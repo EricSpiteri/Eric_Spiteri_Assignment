@@ -18,34 +18,34 @@
         <!-- Navigation Bar -->
         <nav class="navbar navbar-expand-lg bg-body-tertiary">
   <div class="container-fluid">
-    <a class="navbar-brand" href="../index.php">Home</a>
+    <a class="navbar-brand" href="../index.php" tabindex="1">Home</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="HTML/Availabilities.php">Browse Availabilities</a>
+          <a class="nav-link active" aria-current="page" href="Availabilities.php" tabindex="2">Browse Availabilities</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Your Bookings</a>
+          <a class="nav-link" href="#" tabindex="3">Your Bookings</a>
         </li>
 
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" tabindex="4">
             More
           </a>
           <ul class="dropdown-menu">
             <li><a class="dropdown-item" href="#"></a></li>
-            <li><a class="dropdown-item" href="./Contact.php">Contact Us</a></li>
+            <li><a class="dropdown-item" href="./Contact.php" tabindex="5">Contact Us</a></li>
             <li><hr class="dropdown-divider"></li>
-            <li><a class="dropdown-item" href="./FAQ.php">Frequently Asked Questions</a></li>
+            <li><a class="dropdown-item" href="./FAQ.php" tabindex="6">Frequently Asked Questions</a></li>
           </ul>
         </li>
       </ul>
       <form class="d-flex" role="search">
         <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-        <button class="btn btn-outline-success" type="submit">Search</button>
+        <button class="btn btn-outline-success" type="submit" tabindex="7">Search</button>
       </form>
     </div>
   </div>
@@ -67,27 +67,27 @@
               <div class="row">
 
               <div class="col-6">
-                <input type="text" class="form-control" id="name" name="name"  placeholder="Name" required>
+                <input type="text" class="form-control" id="name" name="name"  placeholder="Name" required tabindex="8">
                 <br>
 
                 <div class="row">
 
                 <div class="col-2">
-                <input type="number" class="form-control" id="countryCode" name="countryCode"  placeholder="+" required>
+                <input type="number" class="form-control" id="countryCode" name="countryCode"  placeholder="+" required tabindex="9">
                 </div>
 
                 <!--Country Code Number-->
                 <div class="col-10">
-                <input type="number" class="form-control" id="mobileNumber" name="mobileNumber"  placeholder="Mobile Number" required>
+                <input type="number" class="form-control" id="mobileNumber" name="mobileNumber"  placeholder="Mobile Number" required tabindex="10">
                 </div>
 
               </div>
               
               </div>
               <div class="col-6">
-                <input type="text" class="form-control" id="surname" name="surname"  placeholder="Surname" required>
+                <input type="text" class="form-control" id="surname" name="surname"  placeholder="Surname" required tabindex="11">
                 <br>
-                <input type="text" class="form-control" id="email" name="email"  placeholder="Email Address" required>
+                <input type="text" class="form-control" id="email" name="email"  placeholder="Email Address" required tabindex="12">
                 </div>
 
               </div>
@@ -97,12 +97,12 @@
               <div class="row">
 
                 <div class="col-6">
-                <input type="password" class="form-control" id="password" name="password" placeholder="Password" required>
+                <input type="password" class="form-control" id="password" name="password" placeholder="Password" required tabindex="13">
                 <br>
                 </div>
                
                 <div class="col-6">
-                  <input type="text" class="form-control" id="postcode" name="postcode" placeholder="Postcode" required>
+                  <input type="text" class="form-control" id="postcode" name="postcode" placeholder="Postcode" required tabindex="14">
                   <br>
                   <br>
                   <br>
@@ -114,20 +114,20 @@
               <div class="row">
 
                <div class="col-2">
-                <input type="number" class="form-control" id="houseNumber" name="houseNumber" placeholder="House Number" required>
+                <input type="number" class="form-control" id="houseNumber" name="houseNumber" placeholder="House Number" required tabindex="15">
                </div>
 
                <div class="col-3">
-                <input type="text" class="form-control" id="street" name="street" placeholder="Street" required>
+                <input type="text" class="form-control" id="street" name="street" placeholder="Street" required tabindex="16">
                </div>
 
                <div class="col-4">
-                <input type="text" class="form-control" id="locality" name="locality" placeholder="Locality" required>
+                <input type="text" class="form-control" id="locality" name="locality" placeholder="Locality" required tabindex="17">
                </div>
 
                <!--Country Dropdown -->
                <div class="col-3">
-               <select id="country" name="country" class="form-control" required>
+               <select id="country" name="country" class="form-control" required tabindex="18">
                <option value="">Country</option>
                 <option value="Afghanistan">Afghanistan</option>
                 <option value="Åland Islands">Åland Islands</option>
@@ -389,7 +389,7 @@
            <br>
 
          <!--Submit Button-->
-         <input type="submit" value="Register">
+         <input type="submit" value="Register" tabindex="19">
             </form>
         </div>
     </main>

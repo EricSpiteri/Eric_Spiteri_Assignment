@@ -18,7 +18,7 @@
 
         <div class="loginButton">
         <a href="login.php">
-        <img src="../Images/Icons/ProfileIcon.png" alt="LoginButton">
+        <img src="../Images/Icons/ProfileIcon.png" alt="Login Button" tabindex="1">
         </a>
         </div>
     </div>
@@ -27,34 +27,34 @@
     <!-- Navigation Bar -->
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
   <div class="container-fluid">
-    <a class="navbar-brand" href="../index.php">Home</a>
+    <a class="navbar-brand" href="../index.php" tabindex="2">Home</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="Availabilities.php">Browse Availabilities</a>
+          <a class="nav-link active" aria-current="page" href="Availabilities.php" tabindex="3">Browse Availabilities</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Your Bookings</a>
         </li>
 
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" tabindex="4">
             More
           </a>
           <ul class="dropdown-menu">
             <li><a class="dropdown-item" href="#"></a></li>
-            <li><a class="dropdown-item" href="./Contact.php">Contact Us</a></li>
+            <li><a class="dropdown-item" href="./Contact.php" tabindex="5">Contact Us</a></li>
             <li><hr class="dropdown-divider"></li>
-            <li><a class="dropdown-item" href="./FAQ.php">Frequently Asked Questions</a></li>
+            <li><a class="dropdown-item" href="./FAQ.php" tabindex="6">Frequently Asked Questions</a></li>
           </ul>
         </li>
       </ul>
       <form class="d-flex" role="search">
         <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-        <button class="btn btn-outline-success" type="submit">Search</button>
+        <button class="btn btn-outline-success" type="submit" tabindex="7">Search</button>
       </form>
     </div>
   </div>
@@ -82,7 +82,7 @@
   </ul>
   <div class="card-body">
   <li style="font-weight:bold;" class="list-group-item">$53 per night</li>
-    <a href="#" class="card-link">See Availability</a>
+    <a href="#" class="card-link" tabindex="8">See Availability</a>
   </div>
 </div>
 
@@ -99,7 +99,7 @@
   </ul>
   <div class="card-body">
   <li style="font-weight: bold;" class="list-group-item">$120 per night</li>
-    <a href="#" class="card-link">See Availability</a>
+    <a href="#" class="card-link" tabindex="9">See Availability</a>
   </div>
 </div>
 
@@ -117,7 +117,7 @@
   </ul>
   <div class="card-body">
   <li style="font-weight:bold;" class="list-group-item">$67 per night</li>
-    <a href="#" class="card-link">See Availability</a>
+    <a href="#" class="card-link" tabindex="10">See Availability</a>
   </div>
 </div>
 
@@ -134,7 +134,7 @@
   </ul>
   <div class="card-body">
   <li style="font-weight:bold;" class="list-group-item">$103 per night</li>
-    <a href="#" class="card-link">See Availability</a>
+    <a href="#" class="card-link" tabindex="11">See Availability</a>
   </div>
 </div>
 
@@ -151,7 +151,7 @@
   </ul>
   <div class="card-body">
   <li style="font-weight:bold;" class="list-group-item">$53 per night</li>
-    <a href="#" class="card-link">See Availability</a>
+    <a href="#" class="card-link" tabindex="12">See Availability</a>
   </div>
 </div>
 
@@ -168,7 +168,7 @@
   </ul>
   <div class="card-body">
   <li style="font-weight: bold;" class="list-group-item">$120 per night</li>
-    <a href="#" class="card-link">See Availability</a>
+    <a href="#" class="card-link" tabindex="13">See Availability</a>
   </div>
 </div>
 
@@ -186,7 +186,7 @@
   </ul>
   <div class="card-body">
   <li style="font-weight:bold;" class="list-group-item">$67 per night</li>
-    <a href="#" class="card-link">See Availability</a>
+    <a href="#" class="card-link" tabindex="14">See Availability</a>
   </div>
 </div>
 
@@ -203,7 +203,7 @@
   </ul>
   <div class="card-body">
   <li style="font-weight:bold;" class="list-group-item">$103 per night</li>
-    <a href="#" class="card-link">See Availability</a>
+    <a href="#" class="card-link" tabindex="15">See Availability</a>
   </div>
 </div>
 
@@ -220,7 +220,7 @@
   </ul>
   <div class="card-body">
   <li style="font-weight:bold;" class="list-group-item">$53 per night</li>
-    <a href="#" class="card-link">See Availability</a>
+    <a href="#" class="card-link" tabindex="16">See Availability</a>
   </div>
 </div>
 
@@ -237,7 +237,7 @@
   </ul>
   <div class="card-body">
   <li style="font-weight: bold;" class="list-group-item">$120 per night</li>
-    <a href="#" class="card-link">See Availability</a>
+    <a href="#" class="card-link" tabindex="17">See Availability</a>
   </div>
 </div>
 
@@ -255,7 +255,7 @@
   </ul>
   <div class="card-body">
   <li style="font-weight:bold;" class="list-group-item">$67 per night</li>
-    <a href="#" class="card-link">See Availability</a>
+    <a href="#" class="card-link" tabindex="18">See Availability</a>
   </div>
 </div>
 
@@ -272,7 +272,7 @@
   </ul>
   <div class="card-body">
   <li style="font-weight:bold;" class="list-group-item">$103 per night</li>
-    <a href="#" class="card-link">See Availability</a>
+    <a href="#" class="card-link" tabindex="19">See Availability</a>
   </div>
 </div>
 
