@@ -20,7 +20,7 @@
         <div class="col-2">
         <div class="loginButton">
         <a href="login.php">
-        <img src="../Images/Icons/ProfileIcon.png" alt="LoginButton" tabindex=1>
+        <img src="../Images/Icons/ProfileIcon.png" alt="LoginButton" tabindex="1">
         </a>
         </div>
         </div>

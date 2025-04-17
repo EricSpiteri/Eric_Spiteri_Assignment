@@ -50,7 +50,6 @@
     </div>
   </div>
 </nav>
-</div>
 
 <br>
 <br>
@@ -387,11 +386,10 @@
            <br>
            <br>
            <br>
+</form>
 
          <!--Submit Button-->
          <input type="submit" value="Register" tabindex="19">
-            </form>
-        </div>
     </main>
 
     <br>
@@ -417,7 +415,11 @@ Copyright © 1996–2024 Booking™. All rights reserved.</p2>
 
 </div>
 
+
+
 </footer>
+
+<script src= "../Bootstrap/js/bootstrap.bundle.min.js"></script>
     
 </body>
 </html>

@@ -18,7 +18,7 @@
         <div class="col-2">
         <div class="loginButton">
         <a href="login.php">
-        <img src="../Images/Icons/ProfileIcon.png" alt="LoginButton" tabindex=1>
+        <img src="../Images/Icons/ProfileIcon.png" alt="LoginButton" tabindex="1">
         </a>
         </div>
         </div>
@@ -50,7 +50,7 @@
           </a>
           <ul class="dropdown-menu">
             <li><a class="dropdown-item" href="#"></a></li>
-            <li><a class="dropdown-item" href="/HTML/Contact.php" tabindex="6">Contact Us</a></li>
+            <li><a class="dropdown-item" href="Contact.php" tabindex="6">Contact Us</a></li>
             <li><hr class="dropdown-divider"></li>
             <li><a class="dropdown-item" href="FAQ.php" tabindex="7">Frequently Asked Questions</a></li>
           </ul>

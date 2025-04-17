@@ -56,7 +56,6 @@
     </div>
   </div>
 </nav>
-</div>
 
     <br>
     <br>
